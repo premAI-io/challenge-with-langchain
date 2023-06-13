@@ -1,4 +1,4 @@
-# LLMs in Production - Prem Hackathon
+# LLMs in Production - Prem Hackathon - 16th of June - 23rd of June
 
 table of content
 
@@ -30,15 +30,15 @@ You can run Prem in two different ways:
 
 When the UI is up and running, you can see all the services available. With just one click you can download the service you are interested in. In the background, the docker image associated with the service will be downloaded based on your hardware requirements. 
 
-![DownloadVicuna.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0c27330-ead7-4f9f-bdae-b16ee06593dc/DownloadVicuna.gif)
+![DownloadVicuna](https://github.com/premAI-io/llms-in-production-hackathon/assets/29598954/eb711c2a-2f67-46ad-af9f-b4afa05fcd12)
 
 While waiting for the download to be completed, read more about the service, in the detail view. Just click on the card and you will be redirected to the service page. Each service page is packaged with some general info as well as complete documentation giving more details into the model exposed. When the download has been completed, just click on `Open` and the service will start. You can interact with the service from the playground or from APIs.
 
-![StartVicuna.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c97bf9ac-7cb8-46b9-ab41-c653b0544c98/StartVicuna.gif)
+![StartVicuna](https://github.com/premAI-io/llms-in-production-hackathon/assets/29598954/3e225284-6e72-47be-b394-7956ee19cfc6)
 
 You can check the port on which the service is running from the service detail view.
 
-![RunningPort.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/37e90ebb-21ce-48e1-877d-26e3cf05bcfb/RunningPort.gif)
+![RunningPort2](https://github.com/premAI-io/llms-in-production-hackathon/assets/29598954/e0fb120e-37cd-41e8-8329-ab8a38724308)
 
 ### Start Building Your App
 
