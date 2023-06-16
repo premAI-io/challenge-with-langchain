@@ -1,43 +1,49 @@
 # Prem Challenge x LLMs in Production Conference
+Prem Labs is looking to foster an ecosystem of apps that do not depends on a centralized API at any point of their stack: self-hosting AI models are not only good for privacy and cost optimizations, but most importantly to not increase the power of Big Tech.
 
 ### What
-🛠 Mobile, dekstop or web applications using one or many of Prem AI services. Cheap, private and secure AI applications.
+
+🛠 Mobile, desktop or web applications using one or many of Prem AI services. Cheap, private, and secure AI applications.
 
 ### When
+
 📆 16th of June - 30th of June
 
-### Where 
-🌍 Anywhere, virtual
+### Where
+
+🌍 Anywhere, Virtual
 
 ### How many?
-🚶🚶🚶 Both solo or team accepted
+
+🚶🚶🚶 Both solo and team accepted
 
 ### Prizes
-1. 💰💰💰 0.5 BTC + 100k GPU credits 
+
+1. 💰💰💰 0.5 BTC + 100k GPU credits
 2. 💰💰 0.05 BTC 25k GPU credits
 3. 💰 5k GPU credits
-
 
 ## Submission Requirements
 
 1. **Open Source Github Repository** As Prem is open-source from the start, also apps and services MUST be open-source in all of their parts.
-2. **Use Prem Services** From your local machine in development to production remote servers, with the same interface, API and services.
-3. **Don't Log User Data on your server or third parties** No centralized API in any point of the stack! You users don't want you to sell them out to Big Tech.
+2. **Use Prem Services** From your local machine in development to production remote servers, with the same interface, API, and services.
+3. **Don't Log User Data on your server or third parties** No centralized API at any point of the stack! Your users don't want you to sell them out to Big Tech.
 
-## Judging Criterias
+## Judging Criteria
 
-1. **Prompt utilization** We all know open-source models are not there yet like OpenAI with powerful GPUs at their disposal: from constraints it's where humans can leverage their creativity to produce unexpected results. Be smart at prompting.
-
-2. **Commodity Hardware** If we want to bring the benefits of AI to billions of people in the global south, without lock them in the Big Brother sight, we must work around it and make sure anyone can afford to buy compute. Run your apps on cheap VPS withut GPU or very inexpensive ones.
-
-3. **Composability** Combine all Prem services together: LLMs, Diffusers, Embedding and Vector stores.
-
-4. **Production Status** How polished is your application? Can my granma use it? 
+1. **Prompt utilization** We all know
+open-source models are not there yet like OpenAI with powerful GPUs at
+their disposal: from constraints it's where humans can leverage their
+creativity to produce unexpected results. Be smart at prompting.
+2. **Commodity Hardware** If we want to bring
+the benefits of AI to billions of people in the global south, without
+locking them in the Big Brother sight, we must work around it and make sure anyone can afford to buy computing resources. Run your apps on cheap VPS without GPU or very inexpensive ones.
+3. **Composability** Combine all Prem services together: LLMs, Diffusers, Embedding, and Vector stores.
+4. **Production Status** How polished is your application? Can my grandma use it?
 
 ## Submission Process
 
-**30th of June - BEFORE 6PM UTC**
-[google form link](https://forms.gle/SHpQE1JtdSJAwo9S8)
+**30th of June - BEFORE 6 PM UTC** [google form link](https://forms.gle/SHpQE1JtdSJAwo9S8)
 
 # Getting Started / Tutorial
 
