@@ -19,9 +19,9 @@ Prem Labs is looking to foster an ecosystem of apps that do not depends on a cen
 
 ### Prizes
 
-1. 💰💰💰 5k
-2. 💰💰 3k
-3. 💰 2k
+The Judges will select and reward the best initiative that will participate
+
+1. 💰💰💰 Up to $10,000+ will be awarded by the selected jury.
 
 ## Submission Requirements
 
