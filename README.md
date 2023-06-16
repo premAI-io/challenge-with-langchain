@@ -19,9 +19,9 @@ Prem Labs is looking to foster an ecosystem of apps that do not depends on a cen
 
 ### Prizes
 
-1. 💰💰💰 0.5 BTC + 100k GPU credits
-2. 💰💰 0.05 BTC 25k GPU credits
-3. 💰 5k GPU credits
+1. 💰💰💰 5k
+2. 💰💰 3k
+3. 💰 2k
 
 ## Submission Requirements
 
