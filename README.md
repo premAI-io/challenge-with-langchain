@@ -1,13 +1,22 @@
 # Prem Challenge x LLMs in Production Conference
-Prem Labs is looking to foster an ecosystem of apps that do not depends on a centralized API at any point of their stack: self-hosting AI models are not only good for privacy and cost optimizations, but most importantly to not increase the power of Big Tech.
+
+Prem Labs aims to foster an ecosystem of privacy-preserving applications built on Prem’s open-source models. The apps shouldn't depend on centralized APIs at any point of their stack. 
+
+Teams will leverage state-of-the-Art open-source AI models deployed on-premise through Prem to achieve this.
 
 ### What
 
-🛠 Mobile, desktop or web applications using one or many of Prem AI services. Cheap, private, and secure AI applications.
+🛠 Teams participating in the challenge will develop Mobile, desktop, or web applications using one or many Prem AI services. Self-hosted AI models provide several benefits, including efficiency, cost optimization, and privacy.
+
+To learn more about the challenge and review some reference implementations,  head over to our basic tutorial to get up to speed with Prem https://github.com/premAI-io/llms-in-production-hackathon/#getting-started--tutorial
+
+### About Prem
+
+Prem provides a unified environment to develop AI applications and deploy AI models on your infrastructure. Abstracting away all technical complexities for AI deployment and ushering in a new era of privacy-centric AI applications — users can retain control and ownership of their models.
 
 ### When
 
-📆 16th of June - 30th of June
+📆 19th of June - 1st of July
 
 ### Where
 
@@ -19,31 +28,32 @@ Prem Labs is looking to foster an ecosystem of apps that do not depends on a cen
 
 ### Prizes
 
-The Judges will select and reward the best initiative that will participate
+Judges will shortlist and reward 3 of the best application submitted. 
+💰Up to $ 10,000+ will be awarded at the final selected projects.
 
-1. 💰 Up to $10,000+ will be awarded at the final selected project.
+### Submission Requirements
 
-## Submission Requirements
+To qualify for the challenge, your application should: 
 
-1. **Open Source Github Repository** As Prem is open-source from the start, also apps and services MUST be open-source in all of their parts.
-2. **Use Prem Services** From your local machine in development to production remote servers, with the same interface, API, and services.
-3. **Don't Leak User Data to third parties** No centralized API at any point of the stack! Your users don't want you to sell them out to Big Tech.
+1. **Open Source Github Repository** As Prem is open-source from the start. Also, apps and services MUST be open-source in all of their parts.
+2. **Use Prem Services** From your local machine in development to production remote servers with the same interface, API, and services.
+3. **Don't Log User Data on your server or third parties** No centralized API at any point of the stack! Your users want you to keep your data private!
 
-## Judging Criteria
+### Judging Criteria
 
-1. **Prompt utilization** We all know
-open-source models are not there yet like OpenAI with powerful GPUs at
-their disposal: from constraints it's where humans can leverage their
+1. **Prompt utilization** We all know open-source models are not there yet, like OpenAI with powerful GPUs at their disposal: from constraints, humans can leverage their
 creativity to produce unexpected results. Be smart at prompting.
-2. **Commodity Hardware** If we want to bring
-the benefits of AI to billions of people in the global south, without
-locking them in the Big Brother sight, we must work around it and make sure anyone can afford to buy computing resources. Run your apps on cheap VPS without GPU or very inexpensive ones.
-3. **Composability** Combine all Prem services together: LLMs, Diffusers, Embedding, and Vector stores.
+2. **Commodity Hardware** If we want to bring the benefits of AI to billions of people in the global south without locking them in the Big Brother sight, we must work around it and make sure anyone can afford to buy computing resources. Run your apps on cheap VPS without GPU or very inexpensive ones.
+3. **Composability** Combine all Prem services: LLMs, Diffusers, Embedding, and Vector stores.
 4. **Production Status** How polished is your application? Can my grandma use it?
 
-## Submission Process
+### Submission Process
 
-**30th of June - BEFORE 6 PM UTC** [google form link](https://forms.gle/SHpQE1JtdSJAwo9S8)
+**30th of June - BEFORE 6 PM UTC** [google form link](https://forms.gle/SHpQE1JtdSJAwo9S8)
+
+Show some love to the [Prem App on Github](https://github.com/premAI-io/prem-app)
+
+Follow us on Twitter - https://twitter.com/premai_io
 
 # Getting Started / Tutorial
 
