@@ -27,7 +27,7 @@ The Judges will select and reward the best initiative that will participate
 
 1. **Open Source Github Repository** As Prem is open-source from the start, also apps and services MUST be open-source in all of their parts.
 2. **Use Prem Services** From your local machine in development to production remote servers, with the same interface, API, and services.
-3. **Don't Log User Data on your server or third parties** No centralized API at any point of the stack! Your users don't want you to sell them out to Big Tech.
+3. **Don't Leak User Data to third parties** No centralized API at any point of the stack! Your users don't want you to sell them out to Big Tech.
 
 ## Judging Criteria
 
