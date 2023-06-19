@@ -10,7 +10,7 @@ Teams participating at the challenge  will leverage Prem to deploy AI models and
 
 🛠 Teams participating in the challenge will develop Mobile, desktop, or web applications using one or many Prem AI services. Self-hosted AI models provide several benefits, including efficiency, cost optimization, and privacy.
 
-To learn more about the challenge and review some reference implementations,  head over to our basic tutorial to get up to speed with Prem https://github.com/premAI-io/llms-in-production-hackathon/#getting-started--tutorial
+To learn more about the challenge and review some reference implementations,  head over to our basic tutorial to get up to speed with Prem [](README.md#getting-started--tutorial).
 
 ### About Prem
 
