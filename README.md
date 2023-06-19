@@ -1,8 +1,10 @@
 # Prem Challenge x LLMs in Production Conference
 
-Prem Labs aims to foster an ecosystem of privacy-preserving applications built on Prem’s open-source models. The apps shouldn't depend on centralized APIs at any point of their stack. 
+### Overview
 
-Teams will leverage state-of-the-Art open-source AI models deployed on-premise through Prem to achieve this.
+Prem Labs aims to foster an ecosystem of privacy-preserving applications. We are excited to announce this challenge to incentivize the developers community to build innovative applications, services and solution that put users pricacy first. 
+
+Teams participating at the challenge  will leverage Prem to deploy AI models and services on-premise. An important requirement is that the submitted applications shouldn't depend on centralized APIs at any point of their stack. 
 
 ### What
 
@@ -31,7 +33,7 @@ Prem provides a unified environment to develop AI applications and deploy AI mod
 Judges will shortlist and reward 3 of the best application submitted. 
 💰Up to $ 10,000+ will be awarded at the final selected projects.
 
-### Submission Requirements
+## Submission Requirements
 
 To qualify for the challenge, your application should: 
 
