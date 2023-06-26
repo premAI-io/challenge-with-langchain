@@ -18,7 +18,7 @@ Prem provides a unified environment to develop AI applications and deploy AI mod
 
 ### When
 
-📆 19th of June - 10th of July
+📆 26th of June - 10th of July
 
 ### Where
 
