@@ -1,4 +1,4 @@
-# Prem Challenge x LLMs in Production Conference
+# Prem Challenge x LangChain
 
 ### Overview
 
@@ -18,7 +18,7 @@ Prem provides a unified environment to develop AI applications and deploy AI mod
 
 ### When
 
-📆 19th of June - 1st of July
+📆 19th of June - 10th of July
 
 ### Where
 
