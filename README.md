@@ -51,11 +51,13 @@ creativity to produce unexpected results. Be smart at prompting.
 
 ### Submission Process
 
-**30th of June - BEFORE 6 PM UTC** [google form link](https://forms.gle/SHpQE1JtdSJAwo9S8)
+**10th of July - BEFORE 6 PM UTC** [google form link](https://forms.gle/SHpQE1JtdSJAwo9S8)
 
 Show some love to the [Prem App on Github](https://github.com/premAI-io/prem-app)
 
 Follow us on Twitter - https://twitter.com/premai_io
+
+Join us on [Discord](https://discord.com/invite/kpKk6vYVAn)
 
 # Getting Started / Tutorial
 
